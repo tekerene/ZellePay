@@ -1,0 +1,18 @@
+// Webpack example
+@import '~bootstrap';
+@import '~bootstrap-vue';
+
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+
+$blue: #3399ff;
+$orange: #f26c22;
+$primaryHeader: #6D1ED4;
+$secondaryHeader: #5BDDB4;
+$primaryWhite: #fff;
+$secondaryWhite: #EBE9F0;
+$primaryBlack: #000;
+$lightGray: #8A4ADD;
+
+$primary: $blue;
+$secondary: $orange;
